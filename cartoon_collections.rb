@@ -12,5 +12,8 @@ end
 
 def find_the_cheese(string_food)
   cheese_types = ["cheddar", "gouda", "camembert"]
-  string_food.include?(cheese_types) ? "hb" : nil
+  if string_food.include?("cheddar")
+  elsif string_food.include?("gouda")
+  elsif
+  
 end
