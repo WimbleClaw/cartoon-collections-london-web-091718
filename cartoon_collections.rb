@@ -3,6 +3,7 @@ def roll_call_dwarves(names)
 end
 
 def summon_captain_planet(planeteer)
+  planeteer.collect 
 end
 
 def long_planeteer_calls# code an argument here
